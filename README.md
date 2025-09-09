@@ -4,7 +4,6 @@
 </h1>
 
 <h4 align="center">A powerful HRMS built with React, Node.Js, Express, MySQL ...</h4>
-<h6 align="center"><a href="https://mantzaris-thesis.herokuapp.com/">https://mantzaris-thesis.herokuapp.com</a></h6>
 
 <p align="center">
 <img src="https://github.com/vasilismantz/testgif2/blob/master/thesis-large.gif?raw=true">
